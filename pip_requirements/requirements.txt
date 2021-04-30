@@ -34,7 +34,7 @@ chainer==2.0.1
 chainerrl==0.2.0
 pefile
 traitlets==4.3.2
-urllib3==1.25.3
+urllib3==1.25.8
 wcwidth==0.1.7
 tqdm==4.30.0
 torch==1.0.0
